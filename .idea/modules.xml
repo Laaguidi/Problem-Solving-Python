@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sum-of-positives.iml" filepath="$PROJECT_DIR$/.idea/sum-of-positives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Problem-solving-python.iml" filepath="$PROJECT_DIR$/.idea/Problem-solving-python.iml" />
     </modules>
   </component>
 </project>

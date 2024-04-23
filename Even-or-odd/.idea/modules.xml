@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/2-find-needle.iml" filepath="$PROJECT_DIR$/.idea/2-find-needle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Even-or-odd.iml" filepath="$PROJECT_DIR$/.idea/Even-or-odd.iml" />
     </modules>
   </component>
 </project>
